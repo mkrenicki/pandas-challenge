@@ -1,0 +1,17 @@
+Matt Krenicki
+Dec 3, 2020
+
+As part of this homework assignment, I have included below 3 observable trends in the data based
+on the analysis performed on the purchase_data file using pandas dataframes in the jupyter notebook:
+
+	1) Most players purchased only one item. I know that because in the file there are 780 transactions,
+	of which only 576 were done by unique individuals. This means only 204 players made 2+ purchases
+
+	2) Males by far make up the largest percent of players (84%) and the largest portion of purchases
+	overall by dollars. However, females who do play tend to spend more per person (average of $4.47 for
+	females and $4.07 for males.
+
+	3) This audience / customer base is young. 45% are between 20-24 and the data generally skews right
+	(as in more younger players than older). However, spend per person varies with no significant
+	observable trend by age. Those 35-39 spend the most, and those under 10 spend the second most (perhaps their parents).
+	However, spend by age group seems to bounce around with no clear trend.
